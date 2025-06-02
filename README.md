@@ -2,7 +2,7 @@
 <h3 align="center">Programador | Apaixonado por tecnologia e desenvolvimento de sistemas comerciais</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Desenvolvedor+C%23+e+.NET;Backend+com+APIs+REST;Amante+de+Banco+de+Dados;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=eaff00&center=true&vCenter=true&width=435&lines=Desenvolvedor+C%23+e+.NET;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 ## 🚀 Projetos em Destaque
 - 🧾 **Sistema de PDV** – Frente de caixa com retaguarda (em desenvolvimento)
-- 🌐 **APIs REST** – Desenvolvidas com ASP.NET Core, MariaDB
+- 🌐 **APIs** – Desenvolvidas com ASP.NET Core, MariaDB
 
 ---
 
