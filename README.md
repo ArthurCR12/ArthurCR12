@@ -10,10 +10,8 @@
 ## 💻 Sobre mim
 - 🎯 Apaixonado por resolver problemas com tecnologia
 - 📚 Estudando C#, ASP.NET Core, MariaDB e desenvolvimento de APIs
-- 🔧 Focado no desenvolvimento de sistemas comerciais, sistemas rurais e soluções personalizadas
-- 🌱 Sempre aprendendo algo novo na área de desenvolvimento, automação e tecnologia
-- 🚀 Parceiro de negocios do **Sistema de Controle Rural (SCR)** – voltado para empresas de distribuição
-
+- 🌱 Sempre aprendendo algo novo na área de desenvolvimento e tecnologia
+  
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -35,12 +33,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCR12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCR12&layout=compact&langs_count=7&theme=dark"/>
 </p>
-
----
-
-## 🚀 Projetos em Destaque
-- 🧾 **Sistema de PDV** – Frente de caixa com retaguarda (em desenvolvimento)
-- 🌐 **APIs** – Desenvolvidas com ASP.NET Core, MariaDB
 
 ---
 
